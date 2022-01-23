@@ -1,0 +1,82 @@
+body {
+  margin: 0px;
+  font-size: 15px;
+  text-align: center;
+}
+
+.img-cloud1 {
+  height: 80px;
+  position: relative;
+  left: 170px;
+  top: 40px;
+}
+
+.img-cloud2 {
+  height: 80px;
+  position: relative;
+  right: 100px;
+}
+
+.img-mountain {
+  height: 200px;
+  width: 200px;
+  position: relative;
+  left: 20px;
+}
+.skill-img{
+       line-height: 1;
+       margin: 100px;
+}
+.code-img{
+  width: 30%;
+float: left;
+}
+.skill-row{
+
+  line-height:1;
+  color: inherit;
+  margin: 100px;
+}
+
+.food-img{
+    width:25%;
+    line-height: 2;
+    float:right ;
+}
+
+h1 {
+  color: #66bfbf;
+  font-size: 30px;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color:#66bfbf;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: purple;
+  font-family: 'Dongle', sans-serif;
+}
+
+p {
+  color: green;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-color: teal;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 40px;
+}
+.conatct-div{
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
